@@ -1,3 +1,5 @@
+#!/bin/bash
+
 echo "Introdusca su nombre: "
 read nombre
 echo "Introdusca se apellido: "
