@@ -1,0 +1,13 @@
+1.	"s"			Las ocurrencias de la letra s.
+2.	".o"			Las ocurrencias de un caracter, seguido de la letra o (ej. to).
+3.	"[0-9]"			Todos los dígitos en el archivo.
+4.	"\."			Las ocurrencias del punto (.).
+5.	"\b[Cc]\w*"		Las ocurrencias de la letra c al comienzo de la palabra.
+6.	"\bp\w*"		Las palabras que comienzan con la letra p (no es necesario incluir las mayúsculas).
+
+
+
+7.	"^L"			Todas las "L" (mayusculas) al principio de linea.
+8.	"!$"			Todas los "!" al final de linea.
+9.	" "			Todos los espacios.
+10.	"[A-Z1-3]"		Todas las mayusculas y todos los numeros del 1 al 3.
