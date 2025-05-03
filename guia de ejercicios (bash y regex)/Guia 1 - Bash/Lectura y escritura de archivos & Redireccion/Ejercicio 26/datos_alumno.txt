@@ -1,0 +1,4 @@
+Nombre: Mauricio
+Apellido: Arellano
+Legajo: 113327
+Materia Preferida: I al D de S

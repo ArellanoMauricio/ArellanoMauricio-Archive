@@ -1,0 +1,8 @@
+0 ordenados.txt
+4 texto muy pequeño.txt
+34 texto pequeño.txt
+105 script.sh
+882 texto normal.txt
+4096 carpeta vacia
+6441 texto grande.txt
+37016 texto muy grande.txt
